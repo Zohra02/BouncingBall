@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bouncingBall\bouncingBall\bin\Debug\bouncingBall.exe.config
+C:\Users\User\source\repos\bouncingBall\bouncingBall\bin\Debug\bouncingBall.exe
+C:\Users\User\source\repos\bouncingBall\bouncingBall\bin\Debug\bouncingBall.pdb
+C:\Users\User\source\repos\bouncingBall\bouncingBall\obj\Debug\bouncingBall.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bouncingBall\bouncingBall\obj\Debug\bouncingBall.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bouncingBall\bouncingBall\obj\Debug\bouncingBall.Form1.resources
+C:\Users\User\source\repos\bouncingBall\bouncingBall\obj\Debug\bouncingBall.Properties.Resources.resources
+C:\Users\User\source\repos\bouncingBall\bouncingBall\obj\Debug\bouncingBall.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bouncingBall\bouncingBall\obj\Debug\bouncingBall.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bouncingBall\bouncingBall\obj\Debug\bouncingBall.exe
+C:\Users\User\source\repos\bouncingBall\bouncingBall\obj\Debug\bouncingBall.pdb
